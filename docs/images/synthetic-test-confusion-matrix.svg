@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="570" viewBox="0 0 820 570" role="img" aria-labelledby="title desc">
+<title id="title">Held-out synthetic test confusion matrix</title><desc id="desc">At threshold 0.5: 413 true negatives, 174 false positives, 1 false negative, 12 true positives. Synthetic data only.</desc>
+<rect width="820" height="570" rx="20" fill="#ffffff"/><text x="410" y="48" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#17324d">Held-out test confusion matrix</text>
+<text x="405" y="530" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#263746">Predicted label</text><text x="28" y="300" transform="rotate(-90 28 300)" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#263746">True label</text>
+<g font-family="Arial,sans-serif" font-size="18" text-anchor="middle"><text x="330" y="130" fill="#263746">Legitimate</text><text x="570" y="130" fill="#263746">Fraud</text><text x="170" y="250" fill="#263746">Legitimate</text><text x="170" y="430" fill="#263746">Fraud</text></g>
+<rect x="220" y="150" width="220" height="170" fill="#2a788e"/><rect x="440" y="150" width="220" height="170" fill="#f6df32"/><rect x="220" y="320" width="220" height="170" fill="#440154"/><rect x="440" y="320" width="220" height="170" fill="#355f8d"/>
+<g font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="middle" dominant-baseline="middle"><text x="330" y="235" fill="#ffffff">413</text><text x="550" y="235" fill="#17212b">174</text><text x="330" y="405" fill="#ffffff">1</text><text x="550" y="405" fill="#ffffff">12</text></g>
+<text x="410" y="560" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64748b">3,000-row synthetic demo • seed 42 • threshold 0.50</text>
+</svg>
